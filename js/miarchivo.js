@@ -22,7 +22,7 @@
 // } else alert("La nota ingresada es incorrecta. Intente nuevamente.")
 
 
-let ingresarNumero = parseInt(prompt("Ingresar Numero"));
+let ingresarNumero = parseInt(prompt("Ingresar número"));
 for (let i = 1; i <= 100; i++) {
     let resultado = ingresarNumero + i;
     console.log(ingresarNumero + " + " + i + " = " + resultado);
@@ -56,5 +56,5 @@ while (dato != "ESC") {
             alert("El número ingresado es incorrecto.")
             break;
     }
-    dato = prompt("Ingresar un número entre 1 y 5 por favor.");
+    dato = prompt("Ingresar un número entre 1 y 5 por favor. O escriba ESC para continuar.");
 }
