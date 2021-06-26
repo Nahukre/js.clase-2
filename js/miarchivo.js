@@ -22,7 +22,7 @@
 //     alert("Excelente! Sigue así.")
 // } else alert("La nota ingresada es incorrecta. Intente nuevamente.")
 
-CLASE 3
+//CLASE 3
 let ingresarNumero = parseInt(prompt("Ingresar número"));
 for (let i = 1; i <= 100; i++) {
     let resultado = ingresarNumero + i;
