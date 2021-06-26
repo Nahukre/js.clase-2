@@ -60,8 +60,8 @@ while (dato != "ESC") {
     dato = prompt("Ingresar un número entre 1 y 5 por favor. O escriba ESC para continuar.");
 }
 
-//CLASE 4 trabajo complementario
-//calculo de iva e ingresos brutos
+// //CLASE 4 trabajo complementario
+// //calculo de iva e ingresos brutos
 // const suma = (a, b) => a + b;
 // const resta = (a, b) => a - b;
 // let precioProducto = parseInt(prompt("Cuanto sale su producto sin impuestos"));
@@ -75,7 +75,7 @@ while (dato != "ESC") {
 // console.log("El monto a pagar por Ingresos Brutos es de $" + ingresosBrutos(precioProducto));
 // console.log("El precio final es $" + precioFinal);
 
-// //saber si es multiplo
+// // //saber si es multiplo
 // const multiplos = (a, b) => a % b;
 // var numero = parseInt(prompt("ingrese número"));
 // var multiplo = parseInt(prompt("Ingrese un número para saber si es multiplo"));
